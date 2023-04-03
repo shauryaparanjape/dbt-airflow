@@ -1,0 +1,28 @@
+[2023-04-03T00:03:22.706+0000] {processor.py:153} INFO - Started process (PID=26) to work on /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:03:22.714+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/dag_dbt_manifest.py for tasks to queue
+[2023-04-03T00:03:22.722+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:03:22.722+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:03:22.917+0000] {processor.py:753} INFO - DAG(s) dict_keys(['dag_dbt_manifest']) retrieved from /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:03:23.069+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:03:23.069+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-04-03T00:03:23.111+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:03:23.111+0000] {dag.py:3440} INFO - Setting next_dagrun for dag_dbt_manifest to 2020-12-23T00:00:00+00:00, run_after=2020-12-24T00:00:00+00:00
+[2023-04-03T00:03:23.161+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/dag_dbt_manifest.py took 0.462 seconds
+[2023-04-03T00:03:53.298+0000] {processor.py:153} INFO - Started process (PID=33) to work on /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:03:53.300+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/dag_dbt_manifest.py for tasks to queue
+[2023-04-03T00:03:53.302+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:03:53.302+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:03:53.355+0000] {processor.py:753} INFO - DAG(s) dict_keys(['dag_dbt_manifest']) retrieved from /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:03:53.402+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:03:53.402+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-04-03T00:03:53.431+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:03:53.431+0000] {dag.py:3440} INFO - Setting next_dagrun for dag_dbt_manifest to 2020-12-23T00:00:00+00:00, run_after=2020-12-24T00:00:00+00:00
+[2023-04-03T00:03:53.446+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/dag_dbt_manifest.py took 0.156 seconds
+[2023-04-03T00:04:23.741+0000] {processor.py:153} INFO - Started process (PID=41) to work on /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:04:23.743+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/dag_dbt_manifest.py for tasks to queue
+[2023-04-03T00:04:23.745+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:04:23.745+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:04:23.822+0000] {processor.py:753} INFO - DAG(s) dict_keys(['dag_dbt_manifest']) retrieved from /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:04:23.875+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:04:23.875+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-04-03T00:04:23.916+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:04:23.916+0000] {dag.py:3440} INFO - Setting next_dagrun for dag_dbt_manifest to 2020-12-23T00:00:00+00:00, run_after=2020-12-24T00:00:00+00:00
+[2023-04-03T00:04:23.933+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/dag_dbt_manifest.py took 0.203 seconds
+[2023-04-03T00:04:54.125+0000] {processor.py:153} INFO - Started process (PID=49) to work on /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:04:54.127+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/dag_dbt_manifest.py for tasks to queue
+[2023-04-03T00:04:54.129+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:04:54.129+0000] {dagbag.py:532} INFO - Filling up the DagBag from /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:04:54.172+0000] {processor.py:753} INFO - DAG(s) dict_keys(['dag_dbt_manifest']) retrieved from /opt/airflow/dags/dag_dbt_manifest.py
+[2023-04-03T00:04:54.222+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:04:54.222+0000] {dag.py:2693} INFO - Sync 1 DAGs
+[2023-04-03T00:04:54.250+0000] {logging_mixin.py:137} INFO - [2023-04-03T00:04:54.250+0000] {dag.py:3440} INFO - Setting next_dagrun for dag_dbt_manifest to 2020-12-23T00:00:00+00:00, run_after=2020-12-24T00:00:00+00:00
+[2023-04-03T00:04:54.265+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/dag_dbt_manifest.py took 0.146 seconds
